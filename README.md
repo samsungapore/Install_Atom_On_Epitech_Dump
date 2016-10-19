@@ -5,8 +5,12 @@ Made by Samuel Radat
 Login   <samuel.radat@epitech.eu>
 
 Started on  Wed Oct 19 20:31:17 2016 Samuel Radat
-Last update Wed Oct 19 23:28:58 2016 Samuel Radat
+Last update Wed Oct 19 23:42:41 2016 Samuel Radat
  -->
+
+This is what Atom Editor looks like :
+
+![alt tag](http://img15.hostingpics.net/pics/621975Atom.png)
 
 Install Manual :
 
